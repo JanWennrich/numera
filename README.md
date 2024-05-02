@@ -121,6 +121,7 @@ Numera currently supports the following languages:
 
 * English (en)
 * Persian (fa)
+* German (de-DE)
 
 ### Set Locale
 
